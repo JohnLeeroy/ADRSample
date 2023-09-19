@@ -8,7 +8,7 @@ Technical Story: Base Architecture for Android Apps
 
 ## Context and Problem Statement
 
-Every Android app needs an architecture that compliments its ecosystem and facilitates the problem solving the requirements of the business.
+Every Android app needs an architecture that compliments its ecosystem and facilitates the implementation of business requirements.
 
 ## Decision Drivers
 
