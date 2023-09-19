@@ -1,11 +1,21 @@
 # MVVM Architecture
 
-* Status: proposed
+* Status: accepted
+* Deciders: @johnleeroy
 * Date: 2023-09-19
+
+Technical Story: Base Architecture for Android Apps
 
 ## Context and Problem Statement
 
 Every Android app needs an architecture that compliments its ecosystem and facilitates the problem solving the requirements of the business.
+
+## Decision Drivers
+
+* Maintenance
+* Complexity
+* Performance
+* Developer Experience
 
 ## Considered Options
 
